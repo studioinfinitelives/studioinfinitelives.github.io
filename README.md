@@ -1,39 +1,53 @@
 ## Welcome to Studio Infinite Lives!
 
-You can use the [editor on GitHub](https://github.com/studioinfinitelives/studioinfinitelives.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Your cheat code to the software engineering world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join the our community. Level up your coding skills.
 
-### Markdown
+## Organization Software
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Documentation - Github Pages
 
-```markdown
-Syntax highlighted code block
+### Job Board - Trello
 
-# Header 1
+### Communication - Slack
 
-## Header 2
+### File Storage - Google Drive
 
-### Header 3
+### Code Management - Github
 
-- Bulleted
-- List
+### Forms - Google Forms
 
-1. Numbered
-2. List
+## Recommended
 
-**Bold** and _Italic_ and `Code` text
+### Text Editor - VS Code
 
-[Link](url) and ![Image](src)
-```
+### Operating System - Linux(Ubuntu), WSL
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Documentation TODO
 
-### Jekyll Themes
+### Mission Statement
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/studioinfinitelives/studioinfinitelives.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Apply to Studio Infinite Lives
 
-### Support or Contact
+### Getting Started
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Apply to work on a Project
+
+### NDAs
+
+### Coding Standards Guide
+
+### Payment
+
+### Job Board
+
+### Company Polices
+
+### Slack Guide
+
+### Learn + Teach
+
+### Company Culture
+
+###
