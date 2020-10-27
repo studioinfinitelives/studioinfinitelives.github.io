@@ -40,7 +40,9 @@ Join the our community. Level up your coding skills.
 
 ### Payment
 
-### Job Board
+### Projects
+
+https://studioinfinitelives.atlassian.net/projects
 
 ### Company Polices
 
@@ -50,4 +52,4 @@ Join the our community. Level up your coding skills.
 
 ### Company Culture
 
-###
+### TODOs
